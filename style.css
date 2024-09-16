@@ -1,0 +1,33 @@
+#tarolo1{
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    padding: 50px;
+}
+#tarolo2{
+    background-color: purple;
+    padding: 15px;
+    display: flex;
+    gap: 20px;
+}
+#kisdiv{
+    width: 100px;
+    height: 30px;
+    background-color: aqua;
+    margin-right: 10px;
+}
+#tarolo3{
+    display: flex;
+    flex: 1;
+}
+#sarga{
+    background-color: yellow;
+    flex: 3;
+}
+#zold {
+    background-color: green;
+    flex: 1;
+    
+  }
+
+
